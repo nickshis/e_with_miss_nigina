@@ -1,0 +1,18 @@
+{
+  "name": "e_with_miss_nigina",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "sass": "^1.83.1",
+    "scss": "^0.2.4"
+  }
+}
